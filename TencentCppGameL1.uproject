@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EF63EBD2-43A1-F8E9-78F4-45AD5B30A781}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TencentCppGameL1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
